@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #python:alpine3.19
 #redis:7.4.2
-openjdk:1.8
+openjdk:8
